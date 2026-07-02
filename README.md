@@ -138,6 +138,6 @@ F. Power OFF
 8. Developed By : 
 Sakshi Deshpande , Vaishnavi R , Varshitha D P and Ankitha K S 
 
-Department: Electronics & Communication Engineering
-College: GSSS Institute of Engineering & Technology for Women, Mysuru
+Department: Electronics & Communication Engineering , 
+College: GSSS Institute of Engineering & Technology for Women, Mysuru , 
 Academic Year: 2025–26
